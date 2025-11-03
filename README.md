@@ -21,7 +21,7 @@ An interactive **Tic Tac Toe game** built using **Python Tkinter GUI**, featurin
 ---
 
 ## 🖼 Preview
-![Tic Tac Toe Preview](preview.png)
+![Tic Tac Toe Preview](https://github.com/SudipBera083/TIC-TAC-TOE-GAME-USING-TKINTER-ON-PYTHON-3-/blob/main/assets/demo.png)
 
 ---
 
